@@ -8,4 +8,4 @@
 - 💬 Ask me about our amazing developers
 - 📫 How to reach me: @michaelsmedley
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: for 5 years I made more moneyt from singing than my day job 😷
+- ⚡ Fun fact: for 5 years I made more money from singing than my day job 😷
