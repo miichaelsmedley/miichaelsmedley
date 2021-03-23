@@ -9,3 +9,6 @@
 - 📫 How to reach me: @michaelsmedley
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: for 5 years I made more money from singing than my day job 😷
+
+
+[![Mike's github stats](https://github-readme-stats.vercel.app/api?username=miichaelsmedley&theme=dark)](https://github.com/miichaelsmedley/github-readme-stats)
